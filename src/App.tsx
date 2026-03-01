@@ -6,24 +6,24 @@ const marqueeText = "11166661111 ";
 const apps = [
      {
     id: 1,
-    name: "新时代",
-    description: "0000",
-    iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
-    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
+    name: "米兰体育",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/699c510a7aea005f38310220.jpg",
+    url: "https://www.pr9oj0.vip:9037/entry/register27248/?i_code=321944933",
   },
      {
     id: 2,
-    name: "星耀国际",
+    name: "星空体育",
     description: "1111",
-    iconUrl: "https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg",
-    url: "https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066",
+    iconUrl: "https://pic1.imgdb.cn/item/69a40ac1ac80c84bfd15ae58.png",
+    url: "https://www.8ahmna.vip:9003/register/?agent_code=55699651",
   },
        {
     id: 3,
-    name: "胜天国际",
-    description: "2222",
-    iconUrl: "https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg",
-    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
+    name: "开云体育",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/699c51217aea005f38310225.jpg",
+    url: "https://www.vwqv2s.vip:9663/entry/register79049/?i_code=94491262",
   },
  
   
